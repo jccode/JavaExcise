@@ -1,4 +1,4 @@
-package tk.jcchen.excise.ex1;
+package tk.jcchen.excise.proxytest;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
